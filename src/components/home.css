@@ -20,3 +20,9 @@
     clip-path: polygon(100% 0, 9% 0, 100% 100%);
     z-index: -1;
 }
+
+img{
+    z-index: 100;
+   position: absolute;
+   right: 15rem;
+}
