@@ -1,0 +1,22 @@
+.bg-img{
+    position: absolute;
+   background-image: linear-gradient(
+        50deg,
+        hsl(240deg 100% 20%) 0%,
+        hsl(232deg 97% 24%) 10%,
+        hsl(226deg 95% 27%) 18%,
+        hsl(221deg 96% 31%) 27%,
+        hsl(218deg 98% 34%) 35%,
+        hsl(214deg 100% 37%) 46%,
+        hsl(212deg 100% 40%) 57%,
+        hsl(210deg 100% 43%) 70%,
+        hsl(208deg 100% 47%) 84%,
+        hsl(206deg 100% 50%) 100%
+      );;
+    top: 0px;
+    right: 0px;
+    height: 700px;
+    width: 1300px;
+    clip-path: polygon(100% 0, 9% 0, 100% 100%);
+    z-index: -1;
+}
