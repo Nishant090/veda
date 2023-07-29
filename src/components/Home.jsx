@@ -8,18 +8,9 @@ const Home = () => {
     <img src={laptop} alt='laptop' height='500px' width='500px'/>
     <div className='bg-img'>
     </div>
-
-
-
-
-
-
-
-
-
-
-
     {/* siamnt yo bhanda muni dheki gara */}
+    
+    
 
     
       
