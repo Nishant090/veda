@@ -12,5 +12,14 @@
 }
 
 .btn-1{
+    width: 200px;
+    position: relative;
+    right: 20px;
 
+}
+.me-auto a{
+    color: white;
+}
+ a:hover{
+    border-bottom: solid 1px rgb(9, 9, 133);
 }

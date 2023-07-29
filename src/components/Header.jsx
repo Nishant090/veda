@@ -30,8 +30,8 @@ const Header = () => {
             <Nav.Link href="#link">Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
-        <Button variant="outline-light" className='btn-1'>Request Demo</Button>{' '}
       </Container>
+      <Button variant="outline-light" className='btn-1'>Request Demo</Button>{' '}
     </Navbar>
     
     </>
