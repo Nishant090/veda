@@ -1,7 +1,7 @@
 
   
   a {
-    color: #000;
+    color: white;
     text-decoration: none;
   }
   
@@ -12,19 +12,19 @@
   /* Footer styles */
   .Footer {
     background-color: #80b5ea;
-    position: absolute;
     padding: 40px 0;
-    bottom: 0px;
   }
   
   .container {
     max-width: 1200px;
     margin: 0 auto;
+    color: white;
   }
   
   .row {
     display: flex;
     flex-wrap: wrap;
+    color: white;
   }
   
   .col-12 {
@@ -40,6 +40,7 @@
   .col-lg-2 {
     flex: 0 0 16.666667%;
     max-width: 16.666667%;
+    color: white;
   }
   
   .col-lg-3 {
@@ -78,7 +79,6 @@
     text-align: center;
     position: absolute;
     padding: 20px 0;
-    bottom: 0px;
   }
   
   .Last-footer p {
@@ -92,4 +92,10 @@
   .Last-footer a:hover {
     color: #007bff;
   }
-  
+  ul li{
+    color: white;
+  }
+
+  .row :nth-child(2){
+    color: white;
+  }

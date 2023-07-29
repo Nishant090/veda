@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='Last-footer'>
-        <p>© 2023 VEDA App. All rights reserved.</p>
+        <p>© 2023 VEDA-CLONE. All rights reserved.</p>
       </div>
     </>
   )
