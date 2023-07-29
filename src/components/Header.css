@@ -1,5 +1,6 @@
 .bg-body-tertiary{
     background-color: transparent !important;
+    padding-top: 20px;
     
 }
 .me-auto{
@@ -7,7 +8,7 @@
      color: white !important;
      gap: 50px;
      font-size: large;
-     font-weight: 500;
+     font-weight: 600;
 }
 
 .btn-1{
